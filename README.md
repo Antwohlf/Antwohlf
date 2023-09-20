@@ -1,4 +1,4 @@
-Hi, I’m Anthony - I'm currently a Software Development Engineer at Amazon
+Hi, I’m Anthony - I'm currently an L5 Software Development Engineer at Amazon
 
 I’m interested in computer vision, augmented reality, and autonomous vehicles
 
