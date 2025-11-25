@@ -1,13 +1,23 @@
-Hi, I’m Anthony - I'm a software engineer (formerly L5 at Amazon)
+Hey, I’m Anthony 👋
 
-I’m interested in computer vision, augmented reality, and autonomous vehicles
+I’m a software engineer. I used to be an L5 engineer at Amazon, and now I mostly spend my time making web apps, tinkering with Raspberry Pis, and trying out random AI ideas.
 
-I’m currently learning web dev, tinkering with raspberry pi projects, and finding opportunities to integrate AI into my projects and life
+What I’m into right now 🔧
+	•	Web dev (React, Tailwind, Supabase, Cloudflare)
+	•	Raspberry Pi projects and home-lab experiments
+	•	Small AI tools and automations
 
-Check out some of my current projects!
-apizzamichigan.com
-resumerevamped.com
-duocalculator.com
+Projects I’m working on 📍
+
+APizzaMichigan — interactive map of pizza spots in Michigan (and beyond)
+https://apizzamichigan.com
+
+Resume Revamped — resume builder with themed templates + AI assistant
+https://resumerevamped.com
+
+DuoCalculator — Duolingo XP/streak helper tool
+https://duocalculator.com
+
 <!---
 Antwohlf/Antwohlf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
