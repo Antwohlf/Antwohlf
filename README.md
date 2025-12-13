@@ -1,6 +1,6 @@
 # Hey, I’m Anthony 👋
 
-I’m a software engineer. I used to be an L5 engineer at Amazon, and now I mostly spend my time making web apps, tinkering with Raspberry Pis, and trying out random AI ideas.
+I’m a software engineer. I was previously an L5 engineer at Amazon, and now I mostly spend my time making web apps, tinkering with Raspberry Pis, and trying out random AI ideas.
 
 Things I'm currently learning about
  - Web dev (React, Tailwind, Supabase, Cloudflare)
