@@ -24,7 +24,3 @@ https://duocalculator.com
 🏠 HomeAssistant Server
 
 Smart home integrations on a Raspberry Pi 5
-
-💿 Plex Local Media Server
-
-Making backups of our physical media available on any screen in my home
