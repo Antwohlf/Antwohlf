@@ -9,13 +9,13 @@ Things I'm currently learning about
 
 ## Projects I’m working on 🔧
 
-🍕 APizzaMichigan — interactive map of pizza spots in Michigan (and beyond)
-
-https://apizzamichigan.com
-
 📄 Resume Revamped — resume builder with themed templates + AI assistant
 
 https://resumerevamped.com
+
+🍕 APizzaMichigan — interactive map of pizza spots in Michigan (and beyond)
+
+https://apizzamichigan.com
 
 🦉 DuoCalculator — Duolingo XP/streak helper tool
 
