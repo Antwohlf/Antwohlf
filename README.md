@@ -22,4 +22,8 @@ A model-agnostic CLI for generating, comparing, and approving consistent takes o
 
 A Duolingo course planner that estimates completion dates and required daily pacing. Course data is refreshed through a weekly scraping and validation pipeline covering nearly 300 courses.
 
+🏠 **Self-Hosted Home Lab**
+
+A Linux home server with isolated services on a shared Docker network, pooled storage across multiple physical disks, automated processing workflows, VPN-routed traffic, and secure remote access through a reverse proxy. I designed it so storage and services can grow independently without rebuilding the system around new hardware.
+
 You can find the rest of my projects, resume experiments, and travel photos at [anthonywohlfeil.com](https://anthonywohlfeil.com).
