@@ -4,7 +4,7 @@ I’m a backend software engineer at Propio Language Services. Before that, I wa
 
 Most of my side projects start with “this would be useful” and end with me maintaining a much larger web app than I originally planned. I spend a lot of my free time building those apps, tinkering with Raspberry Pis, and trying out practical uses for AI.
 
-## Projects I’m working on 🔧
+## Projects I’m working on
 
 📄 **[Resume Revamped](https://resumerevamped.com)**
 
