@@ -1,4 +1,4 @@
-# Hey, I’m Anthony 👋
+# Hey, I’m Anthony
 
 I’m a backend software engineer at Propio Language Services. Before that, I was an L5 Software Development Engineer at Amazon working on backend systems for an API platform handling 120B+ monthly requests.
 
