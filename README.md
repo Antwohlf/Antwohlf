@@ -1,26 +1,25 @@
 # Hey, I’m Anthony 👋
 
-I’m currently a Software Development Engineer at Propio Language Services. I was previously an L5 engineer at Amazon, and now I mostly spend my free time making web apps, tinkering with Raspberry Pis, and trying out random AI ideas.
+I’m a backend software engineer at Propio Language Services. Before that, I was an L5 Software Development Engineer at Amazon working on backend systems for an API platform handling 120B+ monthly requests.
 
-Things I'm currently learning about
- - Web dev (React, Tailwind, Supabase, Cloudflare)
- - Raspberry Pi projects and home-lab experiments
- - Small AI tools and automations
+Most of my side projects start with “this would be useful” and end with me maintaining a much larger web app than I originally planned. I spend a lot of my free time building those apps, tinkering with Raspberry Pis, and trying out practical uses for AI.
 
 ## Projects I’m working on 🔧
 
-📄 Resume Revamped — resume builder with themed templates + AI assistant
+📄 **[Resume Revamped](https://resumerevamped.com)**
 
-https://resumerevamped.com
+A live resume platform with company-inspired themes, AI-assisted tailoring and feedback, and browser-to-PDF rendering through Playwright. It currently sees about 1.8k unique visitors each month.
 
-🍕 APizzaMichigan — interactive map of pizza spots in Michigan (and beyond)
+🍕 **[A Pizza Michigan](https://apizzamichigan.com)**
 
-https://apizzamichigan.com
+A personal pizza spreadsheet that got out of hand and became a food and location platform with 200,000+ entries. The public app supports search, filters, reviews, and recommendations, while a multi-agent pipeline handles scraping, enrichment, and validation.
 
-🦉 DuoCalculator — Duolingo XP/streak helper tool
+🎬 **[Multi-Take Image Generation Pipeline](https://github.com/Antwohlf/multi-take-image-generation-pipeline)**
 
-https://duocalculator.com
+A model-agnostic CLI for generating, comparing, and approving consistent takes of the same scene across time, weather, and season. I extracted it from the background system running on my personal website.
 
-🏠 HomeAssistant Server
+🦉 **[DuoCalculator](https://duocalculator.com)**
 
-Smart home integrations on a Raspberry Pi 5
+A Duolingo course planner that estimates completion dates and required daily pacing. Course data is refreshed through a weekly scraping and validation pipeline covering nearly 300 courses.
+
+You can find the rest of my projects, resume experiments, and travel photos at [anthonywohlfeil.com](https://anthonywohlfeil.com).
